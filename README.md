@@ -147,3 +147,8 @@ Crew Description: A small team focused on creating a short blog post quickly
    - Description: Create a launch plan for the app, including marketing strategy and release timeline
    - Expected Output: A detailed launch plan document
    - Assigned to: Product Manager
+
+
+Sample Output:
+
+[CrewAI Streamlit APP (Sample Output).pdf](https://github.com/user-attachments/files/17361148/CrewAI.Streamlit.APP.Sample.Output.pdf)
